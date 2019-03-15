@@ -1,0 +1,17 @@
+{
+    "project": {
+        "full_name": "Arceau de lit",
+        "slug": "arceau-de-lit",
+        "short_description": "Concevoir et réaliser un arceau de lit pour le voyage, dont la particularité est d'être facilement transportable et qui doit être pliable et/ou démontable.",
+        "lang": "fr",
+        "license": "CC BY-SA",
+        "about": "Le projet d'arceau de lit conçu pour voyager, a dû être réalisé pour Sarah en moins de cinq mois afin que celui-ci soit prêt pour un voyage prévu à la fin du mois de Septembre 2017. Il est facilement transportable ainsi que pliable et/ou démontable. \n\nUn arceau de lit, qui peut être de différentes formes, permet de ne pas avoir à supporter le poids ou le contact d'un drap ou d'une couette sur les jambes. Une meilleure liberté de mouvement est ainsi guarantie pour l'utilisateur et des douleurs peuvent être évitées. \n\nL'arceau de voyage est:\n\n*     Pratique et léger\n*     Facilement pliable \n*     Ne pas dépasser la hauteur voulue : 45-50cm, afin que les draps et/ou la couette puissent être bordés\n*     Ne pas dépasser la longueur de la taille d'une valise\n*     Faire en sorte que l’épaisseur des parties repliées ou démontées de l'arceau ne dépassent pas 6cm maximum\n*     Le moins coûteux possible\n\t\t\nAprès réflexion, il a été décidé deabriquer l'arceauen aluminium avec un système d'articulations amovibles fabriquées à l'aide d'une imprimante 3D. ",
+        "steps": [
+            {
+                "title": "",
+                "duration": 300,
+                "content": ""
+            }
+        ]
+    }
+}
