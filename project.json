@@ -20,12 +20,18 @@
             {
                 "title": "Assemblage",
                 "duration": 7200,
-                "content": "**Assembler les pièces sur les tiges aluminium.**\nEn vous référant au schéma de montage ci-dessous, assembler le tout. \nVous pouvez retrouver les deux photos de l'assemblage sur le dépôt Github du projet :\n[Vue éclatée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau_de_voyage-MHK-Doc_et_Images-Arceau_de_voyage_eclatee.jpg)\n\n[Vue assemblée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau%20de%20voyage%20mont%C3%A9.JPG)\n",
+                "content": "**Assembler les pièces sur les tiges aluminium.**\nEn vous référant au schéma de montage ci-dessus, assembler le tout. \nVous pouvez retrouver les deux photos de l'assemblage sur le dépôt Github du projet :\n* [Vue éclatée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau_de_voyage-MHK-Doc_et_Images-Arceau_de_voyage_eclatee.jpg)\n\n* [Vue assemblée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau%20de%20voyage%20mont%C3%A9.JPG)\n",
                 "media": [
                     {
                         "image": {
                             "url": "images/Arceau_de_voyage-MHK-Doc_et_Images-Arceau_de_voyage_eclatee.jpg",
                             "caption": "Arceau de voyage vue éclatée"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/Arceau%20de%20voyage%20mont%C3%A9.JPG",
+                            "caption": "Arceau de voyage vue assemblée"
                         }
                     }
                 ]
