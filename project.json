@@ -10,7 +10,16 @@
             {
                 "title": "Impression des pièces",
                 "duration": 115200,
-                "content": "Télécharger les fichiers sources dans le dossier models sur cette page : https://github.com/myhumankit/arceau-de-lit-de-voyage/tree/master/models/stl\n\nImprimer l'ensemble des pièces sur une imprimante 3D avec du filament ABS.\n\n**Fabrication supports ou pièces 3D : 32 heures**\n\n*  4 * Supports en forme de \"T\" > environ 8 heures\n*  4 * Supports en forme de \"L\" > environ 8 heures\n*  8* Supports en forme de \"Demi-rotules\" avec crans rectangulaires (par la suite trapézoïdaux) > 16 heures\n\n**Attention, les demi-rotules ne sont pas toutes identiques !! Il a quatre fichiers différents, chacun à imprimer en deux exemplaires. **\n\n**Voici les paramètres à utiliser lors de l'impression des pièces, ici avec le logiciel Cura:**\n\n*     Soft utilisé : CURA\n*     Plastique pour le prototype : ABS (plus solide que le PLA)\n*     Température extrusion : 230°C\n*     Température plateau : 90°C\n*     Type du plateau : verre (juste propre, sans aide d'accroche)\n*     Largeur de ligne : 0.3mm\n*     Taux de remplissage : 20%\n*     Épaisseur de la paroi : 1mm\n*     Épaisseur dessus/dessous : 0.6mm\n*     Motif d'impression : zig-Zag\n*     Vitesse d'impression : 60mm/s\n*    Vitesse de remplissage : 100mm/s\n*    Vitesse couche initiale : 30mm/s\n*    Adhérence du plateau : bordure\n*    Supports : activités\n*   Angle de supports : 65°\n\n\n\n"
+                "content": "Télécharger les fichiers sources dans le dossier models sur cette page : https://github.com/myhumankit/arceau-de-lit-de-voyage/tree/master/models/stl\n\nImprimer l'ensemble des pièces sur une imprimante 3D avec du filament ABS.\n\n**Fabrication supports ou pièces 3D : 32 heures**\n\n*  4 * Supports en forme de \"T\" > environ 8 heures\n*  4 * Supports en forme de \"L\" > environ 8 heures\n*  8* Supports en forme de \"Demi-rotules\" avec crans rectangulaires (par la suite trapézoïdaux) > 16 heures\n\n**Attention, les demi-rotules ne sont pas toutes identiques !! Il a quatre fichiers différents, chacun à imprimer en deux exemplaires. **\n\n**Voici les paramètres à utiliser lors de l'impression des pièces, ici avec le logiciel Cura:**\n\n*     Soft utilisé : CURA\n*     Plastique pour le prototype : ABS (plus solide que le PLA)\n*     Température extrusion : 230°C\n*     Température plateau : 90°C\n*     Type du plateau : verre (juste propre, sans aide d'accroche)\n*     Largeur de ligne : 0.3mm\n*     Taux de remplissage : 20%\n*     Épaisseur de la paroi : 1mm\n*     Épaisseur dessus/dessous : 0.6mm\n*     Motif d'impression : zig-Zag\n*     Vitesse d'impression : 60mm/s\n*    Vitesse de remplissage : 100mm/s\n*    Vitesse couche initiale : 30mm/s\n*    Adhérence du plateau : bordure\n*    Supports : activités\n*   Angle de supports : 65°\n\n\n\n",
+                "inputs": [
+                    {
+                        "tool": {
+                            "slug": "imprimante-3d",
+                            "github_organization": "",
+                            "github_repository": ""
+                        }
+                    }
+                ]
             },
             {
                 "title": "Préparation des tubes en aluminium",
@@ -64,7 +73,7 @@
             {
                 "title": "Assemblage",
                 "duration": 7200,
-                "content": "En vous référant au schéma de montage ci-dessus, assembler les pièces imprimées sur les tiges aluminium. \nVous pouvez retrouver les deux photos de l'assemblage sur le dépôt Github du projet :\n\n* [Vue éclatée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau_de_voyage-MHK-Doc_et_Images-Arceau_de_voyage_eclatee.jpg)\n\n* [Vue assemblée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau%20de%20voyage%20mont%C3%A9.JPG)\n",
+                "content": "**Assembler les pièces sur les tiges aluminium.**\nEn vous référant au schéma de montage ci-dessus, assembler le tout. \nVous pouvez retrouver les deux photos de l'assemblage sur le dépôt Github du projet :\n\n* [Vue éclatée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau_de_voyage-MHK-Doc_et_Images-Arceau_de_voyage_eclatee.jpg)\n\n* [Vue assemblée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau%20de%20voyage%20mont%C3%A9.JPG)\n",
                 "media": [
                     {
                         "image": {
