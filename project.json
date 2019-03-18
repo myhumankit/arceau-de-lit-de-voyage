@@ -15,12 +15,56 @@
             {
                 "title": "Préparation des tubes en aluminium",
                 "duration": 300,
-                "content": "Une fois les pièces imprimées, il faut préparer les tubes pour l'assemblage. \n\n**Couper les tubes aux dimensions suivantes:**\n\n*     2 Tubes en aluminium (diamètre 10mm) de 450mm de longueur\n*     4 Tubes en aluminium (diamètre 10mm) de 300mm de longueur\n*     2 Tubes en aluminium (diamètre 10mm) de 250mm de longueur\n*     2 Tubes en aluminium (diamètre 10mm) de 220mm de longueur\n\n**Puis, percer les tubes :**\nPositionner les pièces imprimées sur les articulations afin de marquer les tubes avec un feutre pour l'emplacement des trous. A l'aide d'une perceuse, faire les trous aux endroits marqués. "
+                "content": "Une fois les pièces imprimées, il faut préparer les tubes pour l'assemblage. \n\n**Couper les tubes aux dimensions suivantes:**\n\n*     2 Tubes en aluminium (diamètre 10mm) de 450mm de longueur\n*     4 Tubes en aluminium (diamètre 10mm) de 300mm de longueur\n*     2 Tubes en aluminium (diamètre 10mm) de 250mm de longueur\n*     2 Tubes en aluminium (diamètre 10mm) de 220mm de longueur\n\n**Puis, percer les tubes :**\nPositionner les pièces imprimées sur les articulations afin de marquer les tubes avec un feutre pour l'emplacement des trous. A l'aide d'une perceuse, faire les trous aux endroits marqués. ",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "Tube aluminium de 10mm de diamètre et 450 mm de longueur",
+                            "quantity": 2
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "Tubes en aluminium de 10mm de diamètre et 300 mm de longueur",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "Tubes en aluminium de 10mm de diamètre et 250 mm de longueur",
+                            "quantity": 2
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "Tubes en aluminium de 10mm de diamètre et 220 mm de longueur",
+                            "quantity": 2
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "Vis à tête hexagonale de 6mm de diamètre et 65mm de longueur avec rondelles, boulons en forme de \"papillon\" et écrous",
+                            "quantity": 4
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "Vis à tête fendue de diamètre 2,5mm et 20mm de longueur et leurs écrous.",
+                            "quantity": 24
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "Colle",
+                            "quantity": 1
+                        }
+                    }
+                ]
             },
             {
                 "title": "Assemblage",
                 "duration": 7200,
-                "content": "**Assembler les pièces sur les tiges aluminium.**\nEn vous référant au schéma de montage ci-dessus, assembler le tout. \nVous pouvez retrouver les deux photos de l'assemblage sur le dépôt Github du projet :\n* [Vue éclatée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau_de_voyage-MHK-Doc_et_Images-Arceau_de_voyage_eclatee.jpg)\n\n* [Vue assemblée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau%20de%20voyage%20mont%C3%A9.JPG)\n",
+                "content": "**Assembler les pièces sur les tiges aluminium.**\nEn vous référant au schéma de montage ci-dessus, assembler le tout. \nVous pouvez retrouver les deux photos de l'assemblage sur le dépôt Github du projet :\n\n* [Vue éclatée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau_de_voyage-MHK-Doc_et_Images-Arceau_de_voyage_eclatee.jpg)\n\n* [Vue assemblée](https://github.com/myhumankit/arceau-de-lit-de-voyage/blob/master/images/Arceau%20de%20voyage%20mont%C3%A9.JPG)\n",
                 "media": [
                     {
                         "image": {
