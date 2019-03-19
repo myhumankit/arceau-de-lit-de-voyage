@@ -89,6 +89,28 @@
                     }
                 ]
             }
+        ],
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/Arceau-en-situation-1.jpg",
+                    "caption": "Arceau en situation"
+                }
+            }
+        ],
+        "links": [
+            {
+                "url": "https://rennes.humanlab.me/projet/arceau-de-lit-de-voyage/",
+                "text": "page d'accueil du projet sur le GesLab"
+            },
+            {
+                "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Arceau_de_lit_de_voyage",
+                "text": "page wiki du projet sur le wiki du Humanlab"
+            },
+            {
+                "url": "https://github.com/myhumankit/arceau-de-lit-de-voyage",
+                "text": "code source de la documentation sur GitHub"
+            }
         ]
     }
 }
