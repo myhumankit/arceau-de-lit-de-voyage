@@ -4,7 +4,9 @@
 
 Concevoir et réaliser un arceau de lit pour le voyage, dont la particularité est d'être facilement transportable et qui doit être pliable et/ou démontable.
 
-![featured_image](images/Arceau de voyage monté_H.JPG)
+![featured_image](images/Arceau-en-situation-1.jpg)
+
+
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/arceau-de-lit-de-voyage)
