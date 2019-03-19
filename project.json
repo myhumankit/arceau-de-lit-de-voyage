@@ -16,7 +16,7 @@
                         "tool": {
                             "slug": "imprimante-3d",
                             "github_organization": "myhumankit",
-                            "github_repository": "myworkshop-humanlab-components"
+                            "github_repository": "myworkshop-humanlab-tools"
                         }
                     }
                 ]
