@@ -114,12 +114,12 @@
         ],
         "contributors": [
             {
-                "full_name": "Sébastien Duchossoy",
-                "role": "Contributeur"
-            },
-            {
                 "full_name": "sarah Lasne",
                 "role": "Porteur de projet"
+            },
+            {
+                "full_name": "Sébastien Duchossoy",
+                "role": "Contributeur"
             },
             {
                 "full_name": "Delphine Bézier",
