@@ -111,6 +111,20 @@
                 "url": "https://github.com/myhumankit/arceau-de-lit-de-voyage",
                 "text": "code source de la documentation sur GitHub"
             }
+        ],
+        "contributors": [
+            {
+                "full_name": "Sébastien Duchossoy",
+                "role": "Contributeur"
+            },
+            {
+                "full_name": "sarah Lasne",
+                "role": "Porteur de projet"
+            },
+            {
+                "full_name": "Delphine Bézier",
+                "role": "Responsable de la documentation"
+            }
         ]
     }
 }
