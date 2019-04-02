@@ -28,30 +28,6 @@
                 "inputs": [
                     {
                         "component": {
-                            "slug": "Tube aluminium de 10mm de diamètre et 450 mm de longueur",
-                            "quantity": 2
-                        }
-                    },
-                    {
-                        "component": {
-                            "slug": "Tubes en aluminium de 10mm de diamètre et 300 mm de longueur",
-                            "quantity": 1
-                        }
-                    },
-                    {
-                        "component": {
-                            "slug": "Tubes en aluminium de 10mm de diamètre et 250 mm de longueur",
-                            "quantity": 2
-                        }
-                    },
-                    {
-                        "component": {
-                            "slug": "Tubes en aluminium de 10mm de diamètre et 220 mm de longueur",
-                            "quantity": 2
-                        }
-                    },
-                    {
-                        "component": {
                             "slug": "Vis à tête hexagonale de 6mm de diamètre et 65mm de longueur avec rondelles, boulons en forme de \"papillon\" et écrous",
                             "quantity": 4
                         }
@@ -66,6 +42,86 @@
                         "component": {
                             "slug": "Colle",
                             "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.45,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.45,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.3,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.3,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.3,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.3,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.25,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.25,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.22,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 0.22,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
                         }
                     }
                 ]
