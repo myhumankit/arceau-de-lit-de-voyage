@@ -62,8 +62,9 @@
                             "material": "aluminum",
                             "length": 450,
                             "section": {
-                                "type": "round",
-                                "diameter": 10
+                                "type": "pipe",
+                                "diameter": 10,
+                                "thickness": 1
                             }
                         }
                     },
@@ -73,8 +74,9 @@
                             "material": "aluminum",
                             "length": 300,
                             "section": {
-                                "type": "round",
-                                "diameter": 10
+                                "type": "pipe",
+                                "diameter": 10,
+                                "thickness": 1
                             }
                         }
                     },
@@ -84,8 +86,9 @@
                             "material": "aluminum",
                             "length": 250,
                             "section": {
-                                "type": "round",
-                                "diameter": 10
+                                "type": "pipe",
+                                "diameter": 10,
+                                "thickness": 1
                             }
                         }
                     },
