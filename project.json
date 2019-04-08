@@ -123,6 +123,74 @@
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-humanlab-components"
                         }
+                    },
+                    {
+                        "screw": {
+                            "quantity": 4,
+                            "material": "steel",
+                            "head": "H",
+                            "head_option": "",
+                            "driving": "",
+                            "threading": "M",
+                            "diameter": 6,
+                            "length": 65
+                        }
+                    },
+                    {
+                        "screw": {
+                            "quantity": 24,
+                            "material": "steel",
+                            "head": "C",
+                            "head_option": "",
+                            "driving": "S",
+                            "threading": "M",
+                            "diameter": 2.5,
+                            "length": 20
+                        }
+                    },
+                    {
+                        "profile": {
+                            "quantity": 2,
+                            "material": "aluminum",
+                            "length": 450,
+                            "section": {
+                                "type": "round",
+                                "diameter": 10
+                            }
+                        }
+                    },
+                    {
+                        "profile": {
+                            "quantity": 4,
+                            "material": "aluminum",
+                            "length": 300,
+                            "section": {
+                                "type": "round",
+                                "diameter": 10
+                            }
+                        }
+                    },
+                    {
+                        "profile": {
+                            "quantity": 2,
+                            "material": "aluminum",
+                            "length": 250,
+                            "section": {
+                                "type": "round",
+                                "diameter": 10
+                            }
+                        }
+                    },
+                    {
+                        "profile": {
+                            "quantity": 2,
+                            "material": "aluminum",
+                            "length": 220,
+                            "section": {
+                                "type": "round",
+                                "diameter": 10
+                            }
+                        }
                     }
                 ]
             },
