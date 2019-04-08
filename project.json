@@ -95,8 +95,9 @@
                             "material": "aluminum",
                             "length": 220,
                             "section": {
-                                "type": "round",
-                                "diameter": 10
+                                "type": "pipe",
+                                "diameter": 10,
+                                "thickness": 1
                             }
                         }
                     }
