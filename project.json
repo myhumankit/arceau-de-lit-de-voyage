@@ -103,6 +103,24 @@
                                 "thickness": 1
                             }
                         }
+                    },
+                    {
+                        "nut": {
+                            "quantity": 4,
+                            "material": "stainless steel",
+                            "threading": "M",
+                            "diameter": 6,
+                            "type": "Wing"
+                        }
+                    },
+                    {
+                        "nut": {
+                            "quantity": 4,
+                            "material": "stainless steel",
+                            "threading": "M",
+                            "diameter": 6,
+                            "type": "Nylon"
+                        }
                     }
                 ]
             },
